@@ -15,7 +15,7 @@ Here we are going to create a pr with changes in the [codefest.txt](https://gith
   - Copy the web url.
   - Run `git clone CopiedWeburl` in the terminal of your local computer. After cloning is done move inside the cloned folder.
   - Go to  ```source/codefest.txt```.
-  - Type `I love devFest` into the file and save it.
+  - Type your name, email and `I love devFest` into the file and save it.
   - In the terminal run 
     > git add . <br/>
     > git commit -m "Your Commit message" <br/>
