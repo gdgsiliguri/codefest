@@ -1,4 +1,5 @@
 # Codefest
+Welcome to Codefest 2019. To grab a seat in this competition what you have to do is make a pull requests. Follow the whole documentation.
 ## What is a pull request?
 Pull requests helps you to let the maintainer of the project know the changes you want to make to their project. Once a pull request (PR) is opened
 the project owner or the maintainers can review the changes and can merge them to their project or close the pr.
@@ -22,6 +23,8 @@ Here we are going to create a pr with changes in the [codefest.txt](https://gith
   - Now return to the forked repository in GitHub in your browser and click on "New pull request" Button.
   - Type ```I love devfest``` as the title of the pr and your name and email in the description box.
   - Click on "Create pull request" button and you are done!
+  
+  Want to learn more about Git? Follow our [Git Cheatsheet](https://github.com/gdgsiliguri/git-cheatsheet)
   
   ### Make change to the file on the GitHub site (easier):
   - In the forked repository go to ```source/codefest.txt``` file and click on the pencil icon to edit it.
