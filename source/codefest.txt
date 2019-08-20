@@ -3,8 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Suvam Prasad
+EMAIL-tituprasad30@gmail.com
+
+I love devFest
 
 
 
