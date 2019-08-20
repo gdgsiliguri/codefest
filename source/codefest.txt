@@ -3,9 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
-
+NAME-Nilavya Das
+EMAIL-dnilavya@gmail.com
+I love devFest
 
 
 -----------------------------------------
