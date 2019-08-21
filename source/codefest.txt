@@ -3,8 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Pratim Kumar Das
+EMAIL-rishavdas4@gmail.com
+
+I love DevFest
 
 
 
