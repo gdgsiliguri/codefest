@@ -3,8 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-BHOLA NATH SARKAR
+EMAIL-sarkaraditya817@gmail.com
+I love tech fest
 
 
 
