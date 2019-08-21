@@ -1,13 +1,6 @@
-Codefest 2018 PR Challenge 
-
-// YOUR PR GOES INSIDE THIS //
+I love devFest
+-----------------------------------------
+NAME- SUDIPTO GHOSH
+EMAIL- ghoshsudipto1129@gmail.com
 -----------------------------------------
 
-NAME-
-EMAIL-
-
-
-
------------------------------------------
-
-MAKE THE PR, GRAB THE CODEFEST INVITATION
