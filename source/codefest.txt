@@ -3,8 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Sushil Kumar Singh
+EMAIL- sushil.kisu@gmail.com
+
+I love devFest
 
 
 
