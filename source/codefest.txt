@@ -3,9 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
-
+NAME- Priya Kumari Lal
+EMAIL- lalpriya1620@gmail.com
+I love DevFest
 
 
 -----------------------------------------
