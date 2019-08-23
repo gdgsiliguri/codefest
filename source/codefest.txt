@@ -1,10 +1,10 @@
 Codefest 2018 PR Challenge 
 
-// YOUR PR GOES INSIDE THIS //
+// I love devfest //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Sagnik Ghosh
+EMAIL-gblu2468@gmail.com
 
 
 
