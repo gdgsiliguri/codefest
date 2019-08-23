@@ -2,9 +2,9 @@ Codefest 2018 PR Challenge
 
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
-
-NAME-
-EMAIL-
+I love devFest
+NAME-Karan Agarwal
+EMAIL-karanagarwal429@gmail.com
 
 
 
