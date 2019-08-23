@@ -2,11 +2,11 @@ Codefest 2018 PR Challenge
 
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
+I love devFest
+NAME-Karan Agarwal
+EMAIL-karanagarwal429@gmail.com
 
-NAME-
-EMAIL-
-
-
+AI inventors like DABUS can bring solutions to unsolved problems faced by humans
 
 -----------------------------------------
 
