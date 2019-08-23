@@ -3,8 +3,8 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-  Deb Pramanik
+EMAIL-debpramanik19@gmail.com
 
 
 
