@@ -3,9 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Anik Saha
+EMAIL-aniksaha859@gmail.com
 
+I love Devfest
 
 
 -----------------------------------------
