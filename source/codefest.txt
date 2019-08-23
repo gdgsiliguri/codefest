@@ -3,10 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME - Souyama Debnath
+EMAIL- souyamadebnath@gmail.com
 
-
+I love devFest
 
 -----------------------------------------
 
