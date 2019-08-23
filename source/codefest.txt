@@ -3,9 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Harish Agarwal
+EMAIL-harishagarwal20000@gmail.com
 
+I love devfest
 
 
 -----------------------------------------
