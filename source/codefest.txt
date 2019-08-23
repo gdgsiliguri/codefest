@@ -3,8 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Sanjay Kant Jha
+EMAIL- sanjay.kjha.97@gmail.com
+
+I love devFest
 
 
 
