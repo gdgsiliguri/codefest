@@ -3,8 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Aditya Halder
+EMAIL-adityahalder200@gmail.com
+I love devfest
 
 
 
