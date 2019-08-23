@@ -3,10 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Mainak Dasgupta
+EMAIL- dasgupta3025@gmail.com
 
-
+I love devFest
 
 -----------------------------------------
 
