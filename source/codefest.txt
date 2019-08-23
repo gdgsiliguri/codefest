@@ -3,8 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- SAYANTANI BARMAN
+EMAIL- tanibarman98@gmail.com
+I Love DevFest
 
 
 
