@@ -3,8 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Shankhadeep Dey
+EMAIL-shankhadeepdey99@gmail.com
+I Love devFest
 
 
 
