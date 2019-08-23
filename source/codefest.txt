@@ -3,10 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Hrithik Jaiswal
+EMAIL-hrithk.jais2013@gmail.com
 
-
+I love Devfest
 
 -----------------------------------------
 
