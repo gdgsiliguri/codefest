@@ -3,11 +3,11 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-dipika sarkar
-EMAIL-dipikamonas1798@gmail.com
+NAME-
+EMAIL-
 
 
-I love devfest
+I love devFest
 -----------------------------------------
 
 MAKE THE PR, GRAB THE CODEFEST INVITATION
