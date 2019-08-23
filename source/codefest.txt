@@ -3,11 +3,11 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Chiraag Kakar
+EMAIL- chiraagkakar@gmail.com
 
 
-
+I love devFest
 -----------------------------------------
 
 MAKE THE PR, GRAB THE CODEFEST INVITATION
