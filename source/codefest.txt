@@ -3,11 +3,11 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Utsa Ghosh
+EMAIL- utshaghosh8@gmail.com
 
 
-
+I love devfest
 -----------------------------------------
 
 MAKE THE PR, GRAB THE CODEFEST INVITATION
