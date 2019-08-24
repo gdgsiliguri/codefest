@@ -3,8 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Dibyojyoti Sarkar
+EMAIL-dibyojyotis7@gmail.com
+
+i love dev fest
 
 
 
