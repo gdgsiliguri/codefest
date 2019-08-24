@@ -3,8 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Avishek Das
+EMAIL-das1732@gmail.com
+I love devfest
 
 
 
