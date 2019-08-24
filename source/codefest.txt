@@ -3,8 +3,8 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Chandan Kumar Sahu
+EMAIL- chandansahuji123@gmail.com
 
 
 
