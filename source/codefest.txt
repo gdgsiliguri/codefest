@@ -3,8 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Dibya Jyoti Ghosh
+
+EMAIL- levelogy@gmail.com
+I love devfest
 
 
 
