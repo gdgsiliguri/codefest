@@ -3,9 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
-
+NAME-Aryan Sharma
+EMAIL-aryansharma120200@gmail.com
+I love DevFest
 
 
 -----------------------------------------
