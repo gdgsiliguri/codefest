@@ -3,8 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME- Yash Sharma
+EMAIL-yash.arkedia@gmail.com
+
+i love Dev Fest
 
 
 
