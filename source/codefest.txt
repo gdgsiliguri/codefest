@@ -3,10 +3,10 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
+NAME-Arnab Sharma
+EMAIL-arnabsharmaresu@gmail.com
 
-
+I love devfest
 
 -----------------------------------------
 
