@@ -3,9 +3,9 @@ Codefest 2018 PR Challenge
 // YOUR PR GOES INSIDE THIS //
 -----------------------------------------
 
-NAME-
-EMAIL-
-
+NAME- Nikhil Arora
+EMAIL- nikarora1111@gmail.com	
+I love devFest.
 
 
 -----------------------------------------
